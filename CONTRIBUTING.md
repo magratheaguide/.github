@@ -13,6 +13,15 @@ Generally speaking, here at Magrathea we use Discussions to brainstorm and works
 
 The following are the general guidelines for contributing to Magrathea. Specific projects may have different guidelines, and, where this is the case, an overriding `CONTRIBUTING.md` document will be found in said project’s repo.
 
+Table of Contents:
+
+-   [Report Bugs](#report-bugs)
+-   [Suggest an Idea](#suggest-an-idea)
+-   [Ask a Question](#ask-a-question)
+-   [Join the Crew](#join-the-crew)
+-   [Send Encouragement](#send-encouragement)
+-   [Fund the Effort](#fund-the-effort)
+
 ## Report Bugs
 
 If you've run into a problem with any Magrathea project, please let us know! We'd especially love to hear about bugs relating to accessibility or approachability. Bugs can reported as GitHub Issues. Please be sure to double check for an already existing Issue covering the same problem before opening a new one.
