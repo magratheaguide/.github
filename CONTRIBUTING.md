@@ -83,14 +83,4 @@ One of the quickest and easiest ways you can help Magrathea is to send a few wor
 
 ## Fund the Effort
 
-While we very much appreciate any interest in sending money to help support Magrathea, we do not as an organization accept funds. The best way to show your appreciation financially is to tip individual crew members. Check the Sponsor section in a repo you care about for info about tipping that project's lead, or ask a crew member directly to find out their best tipping method. 
-
-## Donate a Project
-
-If you have a project that you'd like to donate to Magrathea, first of all, thank you! That's most generous and greatly appreciated. Please know that **we can only accept donations with explicit consent from all parties involved in their creation.**
-
-To kick things off, please add all related code and documentation to a public GitHub repo (if it's not already in one). Your repo **must** include a license, and that license must be open source to be an eligible Magrathea candidate. Next, open an Issue in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo to let us know what your project is and where to find its repo. The Magrathea crew will then review your project. 
-
-Your interest in donating a project to Magrathea is always appreciated, but please know that only projects that meet Magrathea's standards for accessibility and approachability will be accepted. We may at this point decline your offer, or we may ask (in the form of opening Issues in your project's repo) for changes to help bring your project up to standard. Your project need not match existing Magrathea projects' code styles and organization, so long as the styles and organization in use are clear, well-documented, and consistent.
-
-When your project is ready, we'll ask you to [transfer ownership of the project's repo](https://docs.github.com/github/administering-a-repository/transferring-a-repository) to the `rp-magrathea` GitHub organization. This provides us all with a structured transfer that will maintain records of all contributions and contributors to the project. This will also automatically add you to the repo as a collaborator. 
+While we very much appreciate any interest in sending money to help support Magrathea, we do not as an organization accept funds. The best way to show your appreciation financially is to tip individual crew members. Check the Sponsor section in a repo you care about for info about tipping that project's lead, or ask a crew member directly to find out their best tipping method.
