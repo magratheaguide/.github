@@ -1,7 +1,5 @@
 # Contributing
 
-[TOC]
-
 Thank you for your interest in helping Magrathea grow! There are lots of ways you can help. First, a quick glossary for those new to GitHub:
 
 -   _"Repo"_ is short for repository, as in a [GitHub Repository](https://docs.github.com/github/creating-cloning-and-archiving-repositories/about-repositories).
@@ -11,9 +9,9 @@ Thank you for your interest in helping Magrathea grow! There are lots of ways yo
 
 For more help getting started with GitHub, check out [GitHub's own Learning Lab](https://lab.github.com/githubtraining/introduction-to-github).
 
-Generally speaking, here at Magrathea we use Discussions to brainstorm and workshop things, and Issues to keep track of actionable tasks. 
+Generally speaking, here at Magrathea we use Discussions to brainstorm and workshop things, and Issues to keep track of actionable tasks.
 
-The following are the general guidelines for contributing to Magrathea. Specific projects may have different guidelines, and, where this is the case, an overriding `CONTRIBUTING.md` document will be found in said project’s repo. 
+The following are the general guidelines for contributing to Magrathea. Specific projects may have different guidelines, and, where this is the case, an overriding `CONTRIBUTING.md` document will be found in said project’s repo.
 
 ## Report Bugs
 
@@ -33,7 +31,7 @@ We'd love to hear about your ideas for helping Magrathea grow. Some ideas may no
 
 Ideas can be provided as GitHub Discussions. **If a Discussion has already been started for your idea,** please react to the Discussion's description with a :thumbsup: to add a +1 to that idea, so we can better understand how many people are interested. Please only add a new comment to the Discussion if you have new information (or a new question!) to add that is not already part of the conversation.
 
-**If you have a new idea for an existing project,** please start a new Discussion in that project's GitHub repo. 
+**If you have a new idea for an existing project,** please start a new Discussion in that project's GitHub repo.
 
 **If you have a new idea for a new project,** please start a new Discussion in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo.
 
@@ -53,7 +51,7 @@ We want to help as best we can, and that includes answering whatever questions y
 
 Questions can be asked as GitHub Discussions. **If a Discussion has already been started relating to your question,** please react to the Discussion's description with a :thumbsup: to add a +1, so we can better understand how many people are interested in finding an answer to that question. Please only add a new comment to the Discussion if you have new information to add that is not already part of the conversation.
 
-**If you have a new question about an existing project,** please start a new Discussion in that project's GitHub repo. 
+**If you have a new question about an existing project,** please start a new Discussion in that project's GitHub repo.
 
 **If you have a new question about the Magrathea site or its contents,** please start a new Discussion in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo.
 
