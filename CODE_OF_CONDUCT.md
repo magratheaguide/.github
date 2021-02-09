@@ -6,6 +6,14 @@ Diversity is one of our huge strengths, but it can also lead to communication is
 
 This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended—a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
+Table of contents:
+
+-   [Our Standards](#our-standards)
+-   [Our Responsibilities](#our-responsibilities)
+-   [Scope](#scope)
+-   [Enforcement](#enforcement)
+-   [Attribution](#attribution)
+
 ## Our Standards
 
 -   **Be friendly and patient.**
@@ -22,7 +30,7 @@ This isn’t an exhaustive list of things that you can’t do. Rather, take it i
         -   Unwelcome sexual attention.
         -   Advocating for, or encouraging, any of the above behavior.
         -   Repeated harassment of others. In general, if someone asks you to stop, then stop.
-    -   Examples of behavior that contributes to creating a positive environment includes, but is not limited to:
+    -   Examples of encouraged behavior that contributes to creating a positive environment includes, but is not limited to:
         -   Using welcoming and inclusive language.
         -   Being respectful of differing viewpoints and experiences.
         -   Gracefully accepting constructive criticism.
@@ -38,7 +46,7 @@ Crew have the right and responsibility to remove, edit, or reject comments, comm
 
 ## Scope
 
-This code of conduct applies to all spaces managed by Magrathea. This includes the Discord server, GitHub repositories, and any other means established by the project team which the community uses for communication. It also applies when an individual is representing Magrathea, its project, or its community in public spaces.
+This code of conduct applies to all spaces managed by Magrathea. This includes the Discord server, GitHub repositories, and any other means established by the project team which the community uses for communication. It also applies when an individual is representing Magrathea, its projects, or its community in public spaces.
 
 ## Enforcement
 
