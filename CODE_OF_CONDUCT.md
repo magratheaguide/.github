@@ -6,7 +6,7 @@ Diversity is one of our huge strengths, but it can also lead to communication is
 
 This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended—a guide to make it easier to enrich all of us and the technical communities in which we participate.
 
-Table of contents:
+**Table of Contents:**
 
 -   [Our Standards](#our-standards)
 -   [Our Responsibilities](#our-responsibilities)

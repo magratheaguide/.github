@@ -13,7 +13,7 @@ Generally speaking, here at Magrathea we use Discussions to brainstorm and works
 
 The following are the general guidelines for contributing to Magrathea. Specific projects may have different guidelines, and, where this is the case, an overriding `CONTRIBUTING.md` document will be found in said project’s repo.
 
-Table of Contents:
+**Table of Contents:**
 
 -   [Report Bugs](#report-bugs)
 -   [Suggest an Idea](#suggest-an-idea)
