@@ -1,0 +1,9 @@
+---
+blank_issues_enabled: true
+contact_links:
+    - name: Ideas and Questions
+      url: ./discussions
+      about: Please suggest new ideas or ask and answer questions relating to this project as Discussions.
+    - name: Magrathea General Discussions
+      url: https://github.com/rp-magrathea/rp-magrathea.github.io/discussions
+      about: For ideas and questions relating to Magrathea as a whole.
