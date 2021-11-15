@@ -2,8 +2,11 @@
 blank_issues_enabled: true
 contact_links:
     - name: Ideas and Questions
-      url: discussions
-      about: Please suggest new ideas or ask and answer questions relating to this project as Discussions.
+      url: ../../../discussions
+      about: Please suggest new ideas or ask and answer questions relating to this project as Discussions
+    - name: Contributing Guidelines
+      url: https://github.com/rp-magrathea/.github/blob/main/CONTRIBUTING.md
+      about: If you're not sure how or where to report a bug, request a feature, or otherwise pitch in, be sure to check this guide for more info
     - name: Magrathea General Discussions
       url: https://github.com/rp-magrathea/rp-magrathea.github.io/discussions
-      about: For ideas and questions relating to Magrathea as a whole.
+      about: For ideas and questions relating to Magrathea as a whole
