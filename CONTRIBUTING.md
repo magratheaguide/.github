@@ -13,15 +13,6 @@ Generally speaking, here at Magrathea we use Discussions to brainstorm and works
 
 The following are the general guidelines for contributing to Magrathea. Specific projects may have different guidelines, and, where this is the case, an overriding `CONTRIBUTING.md` document will be found in said project’s repo.
 
-**Table of Contents:**
-
--   [Report Bugs](#report-bugs)
--   [Suggest an Idea](#suggest-an-idea)
--   [Ask a Question](#ask-a-question)
--   [Join the Crew](#join-the-crew)
--   [Send Encouragement](#send-encouragement)
--   [Fund the Effort](#fund-the-effort)
-
 ## Report Bugs
 
 If you've run into a problem with any Magrathea project, please let us know! We'd especially love to hear about bugs relating to accessibility or approachability. Bugs can reported as GitHub Issues. Please be sure to double check for an already existing Issue covering the same problem before opening a new one.
@@ -70,7 +61,7 @@ For all other types of questions, you can start a new Discussion in the [`rp-mag
 
 ## Join the Crew
 
-We're happy to bring more folks on board, of any discipline. You don't have to write code. (In fact, Daine would, for example, love to team up with somebody who _doesn't_ want to code because they'd rather focus on theme design.) Maybe you want to help with project management or Discord moderation. Maybe you're interested in porting themes to different hosts. Maybe you just love creating supplementary assets for RPGs. Or maybe you have some other way you want to help that we haven't even dreamed up yet. If you'd like to somehow offer your time and talents to help Magrathea grow and better support our unique community, we'd love to hear about it.
+We're happy to bring more folks on board, of any discipline. You don't even have to write code. Maybe you want to help with project management or Discord moderation. Maybe you're interested in porting themes to different hosts. Maybe you just love creating supplementary assets for RPGs. Or maybe you have some other way you want to help that we haven't even dreamed up yet. If you'd like to somehow offer your time and talents to help Magrathea grow and better support our initiative, we'd love to hear about it.
 
 You also need not be an expert to be part of the crew. We're happy to take on folks of any skill level because, for all our crew, it's far more important that you are willing to learn, receptive to constructive critique, and eager not just to make things work, but to understand _how_ and _why_ things work, and the impact they'll have.
 
@@ -88,6 +79,6 @@ These topics are meant to help start a conversation, so that we can get a feel f
 
 One of the quickest and easiest ways you can help Magrathea is to send a few words of encouragement or appreciation. You can do this via Discussions in the various Magrathea repos, or whatever other means is most comfortable for you.
 
-## Fund the Effort
+## Buy Us a Coffee
 
 While we very much appreciate any interest in sending money to help support Magrathea, we do not as an organization accept funds. The best way to show your appreciation financially is to tip individual crew members. Check the Sponsor section in a repo you care about for info about tipping that project's lead, or ask a crew member directly to find out their best tipping method.

@@ -1,0 +1,53 @@
+---
+name: Bug Report
+description: Let us know about a problem with this project
+labels: ["bug", "triage"]
+assignees:
+    - thewildmage
+body:
+    - type: markdown
+      attributes:
+          value: |
+              Thanks for taking the time to fill out this bug report!
+    - type: checkboxes
+      attributes:
+          label: Is there an existing issue for this?
+          description: Please search to see if an issue already exists for the bug you encountered.
+          options:
+              - label: I have searched the existing issues
+                required: true
+    - type: input
+      attributes:
+          label: Where are you seeing this bug?
+          description: Please provide a URL.
+    - type: textarea
+      attributes:
+          label: What happened?
+      validations:
+          required: true
+    - type: textarea
+      attributes:
+          label: What did you expect to happen?
+    - type: input
+      attributes:
+          label: What kind of device are you seeing this on?
+          description: e.g. iPhone 13, Windows Surface tablet, etc.
+      validations:
+          required: true
+    - type: input
+      attributes:
+          label: What operating system?
+          description: e.g. iOS 15.1, Big Sur 11.2, etc.
+    - type: input
+      attributes:
+          label: Which browsers?
+          description: And which versions of those browsers?
+      validations:
+          required: true
+    - type: textarea
+      attributes:
+          label: Anything else that might be helpful for us to know?
+    - type: markdown
+      attributes:
+          value: |
+              Don't forget to attach or include any screenshots or screen recordings that might be helpful!
