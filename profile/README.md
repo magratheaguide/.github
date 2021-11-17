@@ -8,4 +8,4 @@ If you're looking for said resources, you're already in the right place! Those a
 
 For notifications about new releases, you can subscribe to specific repositories here on GitHub or follow the `#shipwide-broadcasts` channel in our [Discord server](https://discord.gg/JN3KQ2D).
 
-Interested in lending a hand? Contributions, from reporting bugs to offering fixes, are welcome! Our [Contributing Guidelines](https://github.com/rp-magrathea/.github/blob/main/CONTRIBUTING.md) detail the ways you can help.
+Interested in lending a hand? Contributions, from reporting bugs to offering fixes, are welcome! Our [Contributing Guidelines](https://github.com/magratheaguide/.github/blob/main/CONTRIBUTING.md) detail the ways you can help.

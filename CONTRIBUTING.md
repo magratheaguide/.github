@@ -21,7 +21,7 @@ If you've run into a problem with any Magrathea project, please let us know! We'
 
 **If you've found a problem with a particular project,** please open an Issue in that project's GitHub repo.
 
-**If you've found a problem with the Magrathea site,** please open an Issue in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo.
+**If you've found a problem with the Magrathea site,** please open an Issue in the [`magratheaguide/magratheaguide.github.io`](https://github.com/magratheaguide/magratheaguide.github.io) repo.
 
 **If you'd like to fix a bug yourself,** please feel free to open a PR against the corresponding repo. All PRs are reviewed for quality and consistency. While we greatly appreciate your interest in helping, please know that you may be asked to make some revisions before your PR can be merged.
 
@@ -33,13 +33,13 @@ Ideas can be provided as GitHub Discussions. **If a Discussion has already been 
 
 **If you have a new idea for an existing project,** please start a new Discussion in that project's GitHub repo.
 
-**If you have a new idea for a new project,** please start a new Discussion in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo.
+**If you have a new idea for a new project,** please start a new Discussion in the [`magratheaguide/magratheaguide.github.io`](https://github.com/magratheaguide/magratheaguide.github.io) repo.
 
-**If you have a new idea for the Magrathea site,** please start a new Discussion in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo.
+**If you have a new idea for the Magrathea site,** please start a new Discussion in the [`magratheaguide/magratheaguide.github.io`](https://github.com/magratheaguide/magratheaguide.github.io) repo.
 
-**If you have an idea for the Magrathea Discord server,** please start a new Discussion in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo.
+**If you have an idea for the Magrathea Discord server,** please start a new Discussion in the [`magratheaguide/magratheaguide.github.io`](https://github.com/magratheaguide/magratheaguide.github.io) repo.
 
-For all other ideas, please start a new Discussion in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo.
+For all other ideas, please start a new Discussion in the [`magratheaguide/magratheaguide.github.io`](https://github.com/magratheaguide/magratheaguide.github.io) repo.
 
 **If you'd like to add a new feature to a project yourself,** please feel free to open a PR against the corresponding repo. All PRs are reviewed for quality and consistency. While we greatly appreciate your interest in helping, please know that you may be asked to make some revisions before your PR can be merged.
 
@@ -53,11 +53,11 @@ Questions can be asked as GitHub Discussions. **If a Discussion has already been
 
 **If you have a new question about an existing project,** please start a new Discussion in that project's GitHub repo.
 
-**If you have a new question about the Magrathea site or its contents,** please start a new Discussion in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo.
+**If you have a new question about the Magrathea site or its contents,** please start a new Discussion in the [`magratheaguide/magratheaguide.github.io`](https://github.com/magratheaguide/magratheaguide.github.io) repo.
 
-**If you have a new question about the Magrathea Discord server,** please start a new Discussion in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo.
+**If you have a new question about the Magrathea Discord server,** please start a new Discussion in the [`magratheaguide/magratheaguide.github.io`](https://github.com/magratheaguide/magratheaguide.github.io) repo.
 
-For all other types of questions, you can start a new Discussion in the [`rp-magrathea/rp-magrathea.github.io`](https://github.com/rp-magrathea/rp-magrathea.github.io) repo.
+For all other types of questions, you can start a new Discussion in the [`magratheaguide/magratheaguide.github.io`](https://github.com/magratheaguide/magratheaguide.github.io) repo.
 
 ## Join the Crew
 
