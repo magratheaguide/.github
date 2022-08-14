@@ -54,5 +54,5 @@ Magrathea crew who do not follow or enforce the code of conduct in good faith ma
 
 This Code of Conduct is adapted from multiple sources:
 
-- [Djano Code of Conduct](https://www.djangoproject.com/conduct/), released under the [CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/).
+- [Django Code of Conduct](https://www.djangoproject.com/conduct/), released under the [CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/).
 - [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). The Contributor Covenant was created by [ Coraline Ada Ehmke](https://where.coraline.codes/) and released under the [CC BY 4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md).
