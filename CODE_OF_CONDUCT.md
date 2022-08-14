@@ -38,11 +38,11 @@ Crew have the right and responsibility to remove, edit, or reject comments, comm
 
 ## Scope
 
-This code of conduct applies to all spaces managed by Magrathea. This includes the Discord server, GitHub repositories, and any other means established by the project team which the community uses for communication. It also applies when an individual is representing Magrathea, its projects, or its community in public spaces.
+This code of conduct applies to all spaces managed by Magrathea. This includes all Magrathea GitHub repositories, and any other means established by the project team which the community uses for communication. It also applies when an individual is representing Magrathea, its projects, or its community in public spaces.
 
 ## Enforcement
 
-If you believe someone is violating Magrathea's code of conduct, we ask that you report it by contacting Daine via Discord at `daine#1078`.
+If you believe someone is violating Magrathea's code of conduct, we ask that you report it by contacting Daine (see [Daine's website](https://thewildmage.dev) for contact methods).
 
 Alternatively, for violations within GitHub, some Magrathea repositories may be configured to accept reports, enabling you to contact that repository's administrators through GitHub itself. (For more information, see [GitHub's documentation on reporting abuse or spam](https://docs.github.com/en/github/building-a-strong-community/reporting-abuse-or-spam#reporting-an-issue-or-pull-request)).
 
@@ -54,5 +54,5 @@ Magrathea crew who do not follow or enforce the code of conduct in good faith ma
 
 This Code of Conduct is adapted from multiple sources:
 
-- [Djano Code of Conduct](https://www.djangoproject.com/conduct/), released under the [CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/).
+- [Django Code of Conduct](https://www.djangoproject.com/conduct/), released under the [CC BY 3.0 License](https://creativecommons.org/licenses/by/3.0/).
 - [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). The Contributor Covenant was created by [ Coraline Ada Ehmke](https://where.coraline.codes/) and released under the [CC BY 4.0 License](https://github.com/ContributorCovenant/contributor_covenant/blob/release/LICENSE.md).
