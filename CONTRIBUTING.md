@@ -71,7 +71,8 @@ We want to help as best we can, and that includes answering whatever questions y
 
 Questions can be asked as GitHub Discussions.
 
-- **Members of the community are encouraged to answer questions if and only if they also provide a link to their answer's source.** The goal is not to just hand folks fish, but to help teach them _how_ to fish.
+**Members of the community are encouraged to answer questions if and only if they also provide a link to their answer's source.** The goal is not to just hand folks fish, but to help teach them _how_ to fish.
+
 - **If a Discussion has already been started relating to your question,** please react to the Discussion's description with a :thumbsup:. We'll regard this as a vote for more attention to be given to that question. Please only add a new comment to the Discussion if you have new information to add that is not already part of the conversation.
 - **If you have a new question about an existing project,** please start a new Discussion in that project's GitHub repo.
 - **If you have a new question about the Magrathea website or its contents,** please start a new Discussion in the [`magratheaguide.github.io`](https://github.com/magratheaguide/magratheaguide.github.io) repo.
