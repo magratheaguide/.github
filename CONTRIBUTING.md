@@ -89,22 +89,6 @@ Questions can be asked as GitHub Discussions.
 
 **For all other types of questions,** you can start a new Discussion in the [`magratheaguide.github.io`](https://github.com/magratheaguide/magratheaguide.github.io) repo.
 
-## Join the Crew
-
-We're happy to bring more folks on board, of any discipline. You don't even have to write code. Maybe you want to help with project management or Discussion moderation. Maybe you're interested in porting themes to different hosts. Maybe you just love creating supplementary assets for RPGs. Or maybe you have some other way you want to help that we haven't even dreamed up yet. If you'd like to somehow offer your time and talents to help Magrathea grow and better support our initiative, we'd love to hear about it.
-
-You also need not be an expert to be part of the crew. We're happy to take on folks of any skill level because, for all our crew, it's far more important that you are willing to learn, receptive to constructive critique, and eager not just to make things work, but to understand _how_ and _why_ things work, and the impact they'll have.
-
-Anyone interested in joining Magrathea's crew should reach out directly to the captain of this ship, [Daine](https://daine.dev). When you do, please be sure to include the following info:
-
--   Your alias, pronouns, and time zone (so we can be sure to address you respectfully!)
--   Your areas of interest or expertise
--   Your experience in those areas (if any)
--   How exactly you'd like to help
--   Why you want to help
-
-These topics are meant to help start a conversation, so that we can get a feel for whether you'd be a good fit for the crew. Not everyone will be, and that's okay! There are still plenty of ways you can help. You don't even have to be an official member of the crew to do most of the things mentioned in this guide.
-
 ## Send Encouragement
 
 One of the quickest and easiest ways you can help Magrathea is to send a few words of encouragement or appreciation. You can do this via Discussions in the various Magrathea repos, or whatever other means is most comfortable for you.
