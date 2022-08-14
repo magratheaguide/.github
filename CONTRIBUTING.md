@@ -35,6 +35,14 @@ Please note that all contributions are subject to the Developer Certificate of O
 > 
 > (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 
+## Ways to Contribute
+
+- [Report bugs](#report-bugs)
+- [Suggest an idea](#suggest-an-idea)
+- [Ask a question](#ask-a-question)
+- [Send encouragement](#send-encouragement)
+- [Buy us a coffee](#buy-us-a-coffee)
+
 ## Report Bugs
 
 If you've run into a problem with any Magrathea project, please let us know! We'd especially love to hear about bugs relating to accessibility or approachability. Bugs can reported as GitHub Issues. Please be sure to double check for an already existing Issue covering the same problem before opening a new one.
