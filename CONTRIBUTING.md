@@ -2,10 +2,10 @@
 
 Thank you for your interest in helping Magrathea grow! There are lots of ways you can help. First, a quick glossary for those new to GitHub:
 
--   _"Repo"_ is short for repository, as in a [GitHub Repository](https://docs.github.com/github/creating-cloning-and-archiving-repositories/about-repositories).
--   _"PR"_ is short for [Pull Request](https://docs.github.com/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
--   _"Issue"_ refers to a [GitHub Issue](https://docs.github.com/github/managing-your-work-on-github/creating-an-issue), GitHub's method for opening tickets.
--   _"Discussion"_ refers to a [GitHub Discussion](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions).
+- _"Repo"_ is short for repository, as in a [GitHub Repository](https://docs.github.com/github/creating-cloning-and-archiving-repositories/about-repositories).
+- _"PR"_ is short for [Pull Request](https://docs.github.com/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+- _"Issue"_ refers to a [GitHub Issue](https://docs.github.com/github/managing-your-work-on-github/creating-an-issue), GitHub's method for opening tickets.
+- _"Discussion"_ refers to a [GitHub Discussion](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions).
 
 For more help getting started with GitHub, check out [GitHub's own Learning Lab](https://lab.github.com/githubtraining/introduction-to-github).
 
@@ -17,22 +17,21 @@ Please note that all contributions are subject to the Developer Certificate of O
 
 > Developer Certificate of Origin
 > Version 1.1
-> 
+>
 > Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
-> 
+>
 > Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
-> 
-> 
+>
 > Developer's Certificate of Origin 1.1
-> 
+>
 > By making a contribution to this project, I certify that:
-> 
+>
 > (a) The contribution was created in whole or in part by me and I have the right to submit it under the open source license indicated in the file; or
-> 
+>
 > (b) The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that license to submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as indicated in the file; or
-> 
+>
 > (c) The contribution was provided directly to me by some other person who certified (a), (b) or (c) and I have not modified it.
-> 
+>
 > (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 
 ## Ways to Contribute
